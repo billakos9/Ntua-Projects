@@ -1,6 +1,6 @@
 # University Projects Repository
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Welcome to my repository showcasing the projects I developed after my third year at **ECE NTUA**, following the **Computer Science** direction.
+## Welcome to my repository showcasing the projects I developed after my third year at **ECE NTUA**, specializing in **Computer Science**.
 
 Each directory corresponds to a specific course and its related projects.
 
