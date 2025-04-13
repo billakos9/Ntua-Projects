@@ -16,7 +16,7 @@
   Each child will search for the character in the file in parallel, and the parent will collect and print the total result.
   When the program receives Control+C (SIGINT), instead of terminating, it should print the total number of processes currently searching the file.
 
-**- 1.4:**
+- 1.4:
   Implement a complete application for parallel character counting in a file.
   The application should receive from the user: the filename, and the character to search for.
   During execution, the user should be able to issue commands to:
