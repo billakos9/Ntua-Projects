@@ -1,5 +1,7 @@
 - 1.1: Implement a program with exactly the same functionality, but using only system calls, without using the C standard library.
 
+  
+
 - 1.2:
   a) Create a child process that greets the world, mentioning its PID and its parent's PID.
            The parent prints the child's PID and waits for it to terminate.
@@ -11,10 +13,14 @@
 
   d) Create a child process that executes the code you wrote in Question 1.1.
 
+  
+
 - 1.3:
   Extend the program from Question 2 to create P child processes (with P defined as a constant in your code).
   Each child will search for the character in the file in parallel, and the parent will collect and print the total result.
   When the program receives Control+C (SIGINT), instead of terminating, it should print the total number of processes currently searching the file.
+
+  
 
 - 1.4:
   Implement a complete application for parallel character counting in a file.
