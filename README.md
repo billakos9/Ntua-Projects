@@ -1,4 +1,4 @@
-University Projects Repository
+# University Projects Repository
 
 Welcome to my University Projects repository! 🎓 This collection includes various projects I have worked on during my studies at NTUA ECE. The projects cover different topics in software development, engineering, and other technical fields, showcasing my learning process and problem-solving skills.
 
