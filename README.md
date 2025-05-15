@@ -8,7 +8,7 @@ Each directory corresponds to a specific course and its related projects.
 
 ## Featured Collaborations
 
-- **[Music Festivals Database]([https://github.com/yannisleventis/databases])** — Created database schema, some queries & web app  
+- **[Music Festivals Database](https://github.com/yannisleventis/databases)** — Created database schema, some queries & web app  
 
 
 [📫 Contact Me](mailto:vafentoulidis@outlook.com).
